@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1728861359.32461 "c:/Users/arlan/Workspace/Latex/BDII/parcial_2/BDII_Parcial_2/parcial_2.tex" "parcial_2.pdf" "parcial_2" 1728861365.84022 0
+["pdflatex"] 1728861747.85801 "c:/Users/arlan/Workspace/Latex/BDII/parcial_2/BDII_Parcial_2/parcial_2.tex" "parcial_2.pdf" "parcial_2" 1728861754.23684 0
   "1.Portada/portada.tex" 1728854583 898 ee6c15a2ca85b1bc2c602408db14c888 ""
-  "2.Enunciado/enunciado.tex" 1728861358 740 8eb6e20b8fa242cb11fe20995a7a8c6c ""
+  "2.Enunciado/enunciado.tex" 1728861746 743 87c1b07f2b046b1d64b060811cc9c0a6 ""
   "3.Desarrollo/3.1.Diagramas/diagramas.tex" 1728855689 289 1147e05edb198421872e5e6aff26ec33 ""
   "3.Desarrollo/3.2.Creacion/crear_db_tablas.tex" 1728856304 1434 10107944312384bb61e1c409b988bb55 ""
   "3.Desarrollo/3.3.Triggers/crear_triggers.tex" 1728856950 1342 9101b6323f927f6bb530f9516bab7473 ""
@@ -191,11 +191,11 @@
   "Imagenes/UTP/fisc.png" 1726966500 8337 6c3899861a2a551f9879979cbf49c3f9 ""
   "Imagenes/UTP/utp.png" 1726966516 105799 7b0e6b2f101038bc9c781b83b7d99321 ""
   "c:/Users/arlan/Workspace/Latex/BDII/parcial_2/BDII_Parcial_2/parcial_2.tex" 1728860643 2120 99785ba9853db4ef23e0b9603e3df2da ""
-  "parcial_2.aux" 1728861365 5334 56683286565c0beab7f864a8b6f3fd79 "pdflatex"
-  "parcial_2.lof" 1728861365 3017 e5696c619f0a46906913a10b51d34671 "pdflatex"
-  "parcial_2.out" 1728861365 1097 c91d9698ad48f18eedc683118814d812 "pdflatex"
+  "parcial_2.aux" 1728861753 5334 56683286565c0beab7f864a8b6f3fd79 "pdflatex"
+  "parcial_2.lof" 1728861753 3017 e5696c619f0a46906913a10b51d34671 "pdflatex"
+  "parcial_2.out" 1728861753 1097 c91d9698ad48f18eedc683118814d812 "pdflatex"
   "parcial_2.tex" 1728860643 2120 99785ba9853db4ef23e0b9603e3df2da ""
-  "parcial_2.toc" 1728861365 607 093519ec9710a16b35df1186b9ab01af "pdflatex"
+  "parcial_2.toc" 1728861753 607 093519ec9710a16b35df1186b9ab01af "pdflatex"
   (generated)
   "parcial_2.aux"
   "parcial_2.lof"
