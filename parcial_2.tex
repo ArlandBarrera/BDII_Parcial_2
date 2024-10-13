@@ -1,0 +1,66 @@
+\documentclass{extbook}
+\usepackage[papersize={8.5in,11in},top=1in,bottom=1in]{geometry}
+\RequirePackage{fix-cm}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{fullpage}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{amsmath}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+
+\renewcommand{\contentsname}{Contenido}
+\renewcommand{\figurename}{Figura}
+%\renewcommand{\listtablename}{Lista de tablas}
+\renewcommand{\listfigurename}{Lista de figuras}
+\usepackage[fontsize=13.5pt]{fontsize}
+\setlength{\parindent}{0pt}
+
+\titleformat{\chapter}[display]
+  {\bfseries\huge} % Estilo del título
+  {\hfill\Large} % Alineación a la derecha
+  {3ex} % Espaciado entre el número del capítulo y el título
+  {\vspace{-5cm}\titlerule\vspace{1.5ex}\hfill} % Regla arriba y alineación del título a la derecha
+  [\vspace{1ex}\titlerule] % Regla debajo del título
+
+
+  \makeatletter
+  \patchcmd{\chapter}
+    {\if@openright\cleardoublepage\else\clearpage\fi}
+    {\clearpage}
+    {}{}
+  \makeatother
+
+  \definecolor{codegreen}{rgb}{0,0.6,0}
+  \definecolor{codegray}{rgb}{0.5,0.5,0.5}
+  \definecolor{codepurple}{rgb}{0.58,0,0.82}
+  \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\begin{document}
+\input{1.Portada/portada.tex}
+\tableofcontents
+\listoffigures
+%\listoftables para lista de tablas 
+\chapter{Desarrollo}
+\section{Diagramas}
+\input{2.Desarrollo/2.1.Diagramas/diagramas.tex}
+\section{Creación de Base de Datos y Tablas}
+\input{2.Desarrollo/2.2.Creacion/crear_db_tablas.tex}
+\section{Creación de Triggers}
+\input{2.Desarrollo/2.3.Triggers/crear_triggers.tex}
+\section{Inserción de Registros}
+\input{2.Desarrollo/2.4.Insercion/insertar_registros.tex}
+\section{Probar Triggers}
+\input{2.Desarrollo/2.5.ProbarTriggers/test_triggers.tex}
+\section{Ejercicios}
+\input{2.Desarrollo/2.6.Ejercicios/ejercicios.tex}
+\end{document}
