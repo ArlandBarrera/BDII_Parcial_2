@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.14)  13 OCT 2024 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.14)  13 OCT 2024 18:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -606,12 +606,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (1.Portada/portada.tex
-<Imagenes/UTP/utp.png, id=34, 2410.00375pt x 2410.00375pt>
+<Imagenes/UTP/utp.png, id=38, 2410.00375pt x 2410.00375pt>
 File: Imagenes/UTP/utp.png Graphic file (type png)
 <use Imagenes/UTP/utp.png>
 Package pdftex.def Info: Imagenes/UTP/utp.png  used on input line 9.
 (pdftex.def)             Requested size: 168.7175pt x 168.7175pt.
-<Imagenes/UTP/fisc.png, id=35, 276.03125pt x 276.03125pt>
+<Imagenes/UTP/fisc.png, id=39, 276.03125pt x 276.03125pt>
 File: Imagenes/UTP/fisc.png Graphic file (type png)
 <use Imagenes/UTP/fisc.png>
 Package pdftex.def Info: Imagenes/UTP/fisc.png  used on input line 10.
@@ -620,29 +620,29 @@ Package pdftex.def Info: Imagenes/UTP/fisc.png  used on input line 10.
 
 
 {C:/Users/arlan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./Imagenes/UTP/utp.png> <./Imagenes/UTP/fisc.png>]) (parcial_2.toc
-LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 2.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
+LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 3.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 2.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 2.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <13.5> on input line 2.
+(Font)              <13.5> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9.44995> on input line 2.
+(Font)              <9.44995> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.75> on input line 2.
+(Font)              <6.75> on input line 3.
 )
 \tf@toc=\write5
 \openout5 = `parcial_2.toc'.
@@ -657,8 +657,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 Chapter 1.
-(2.Desarrollo/2.1.Diagramas/diagramas.tex
-<Imagenes/Diagramas/DERE.png, id=117, 2401.97375pt x 1720.4275pt>
+(2.Enunciado/enunciado.tex) [4
+
+]
+Chapter 2.
+(3.Desarrollo/3.1.Diagramas/diagramas.tex
+<Imagenes/Diagramas/DERE.png, id=126, 2401.97375pt x 1720.4275pt>
 File: Imagenes/Diagramas/DERE.png Graphic file (type png)
 <use Imagenes/Diagramas/DERE.png>
 Package pdftex.def Info: Imagenes/Diagramas/DERE.png  used on input line 3.
@@ -668,7 +672,7 @@ Overfull \hbox (10.63123pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-<Imagenes/Diagramas/DR.png, id=119, 1409.265pt x 1393.205pt>
+<Imagenes/Diagramas/DR.png, id=128, 1409.265pt x 1393.205pt>
 File: Imagenes/Diagramas/DR.png Graphic file (type png)
 <use Imagenes/Diagramas/DR.png>
 Package pdftex.def Info: Imagenes/Diagramas/DR.png  used on input line 9.
@@ -676,58 +680,58 @@ Package pdftex.def Info: Imagenes/Diagramas/DR.png  used on input line 9.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4
+ [5
 
- <./Imagenes/Diagramas/DERE.png>] (2.Desarrollo/2.2.Creacion/crear_db_tablas.tex
-<Imagenes/SQL/1.Crear_db/crear_db.png, id=125, 385.44pt x 130.98938pt>
+ <./Imagenes/Diagramas/DERE.png>] (3.Desarrollo/3.2.Creacion/crear_db_tablas.tex
+<Imagenes/SQL/1.Crear_db/crear_db.png, id=134, 385.44pt x 130.98938pt>
 File: Imagenes/SQL/1.Crear_db/crear_db.png Graphic file (type png)
 <use Imagenes/SQL/1.Crear_db/crear_db.png>
 Package pdftex.def Info: Imagenes/SQL/1.Crear_db/crear_db.png  used on input line 3.
 (pdftex.def)             Requested size: 231.26578pt x 78.59422pt.
-<Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png, id=126, 553.31718pt x 234.8775pt>
+<Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png, id=135, 553.31718pt x 234.8775pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png  used on input line 9.
 (pdftex.def)             Requested size: 276.65791pt x 117.43846pt.
- [5 <./Imagenes/Diagramas/DR.png> <./Imagenes/SQL/1.Crear_db/crear_db.png>]
-<Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png, id=133, 574.39594pt x 327.47343pt>
+ [6 <./Imagenes/Diagramas/DR.png> <./Imagenes/SQL/1.Crear_db/crear_db.png>]
+<Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png, id=142, 574.39594pt x 327.47343pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png  used on input line 15.
 (pdftex.def)             Requested size: 287.19725pt x 163.73631pt.
-<Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png, id=134, 536.0025pt x 292.09125pt>
+<Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png, id=143, 536.0025pt x 292.09125pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png  used on input line 21.
 (pdftex.def)             Requested size: 321.60397pt x 175.25609pt.
-<Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png, id=135, 658.71094pt x 294.34969pt>
+<Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png, id=144, 658.71094pt x 294.34969pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png  used on input line 27.
 (pdftex.def)             Requested size: 395.2296pt x 176.61116pt.
- [6 <./Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png>]
-<Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png, id=143, 511.9125pt x 236.38312pt>
+ [7 <./Imagenes/SQL/2.Crear_tablas/crear_tb_clientes.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_prestamos.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_cuentas.png>]
+<Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png, id=153, 511.9125pt x 236.38312pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png  used on input line 33.
 (pdftex.def)             Requested size: 307.14987pt x 141.83096pt.
-<Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png, id=144, 510.40688pt x 236.38312pt>
+<Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png, id=154, 510.40688pt x 236.38312pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png  used on input line 39.
 (pdftex.def)             Requested size: 306.24648pt x 141.83096pt.
-<Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png, id=145, 828.84656pt x 336.50719pt>
+<Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png, id=155, 828.84656pt x 336.50719pt>
 File: Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png Graphic file (type png)
 <use Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png>
 Package pdftex.def Info: Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png  used on input line 45.
 (pdftex.def)             Requested size: 414.42226pt x 168.25317pt.
-) [7 <./Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png>] (2.Desarrollo/2.3.Triggers/crear_triggers.tex
-<Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png, id=154, 774.64406pt x 399.74344pt>
+) [8 <./Imagenes/SQL/2.Crear_tablas/crear_tb_transacciones.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_ahorro.png> <./Imagenes/SQL/2.Crear_tablas/crear_tb_plazofijo.png>] (3.Desarrollo/3.3.Triggers/crear_triggers.tex
+<Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png, id=163, 774.64406pt x 399.74344pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png  used on input line 3.
 (pdftex.def)             Requested size: 387.32108pt x 199.87122pt.
-<Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png, id=155, 989.19562pt x 402.00188pt>
+<Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png, id=164, 989.19562pt x 402.00188pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png  used on input line 9.
@@ -735,54 +739,51 @@ Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png  
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <./Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png> <./Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png>]
-<Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png, id=162, 790.45313pt x 400.49625pt>
+ [9 <./Imagenes/SQL/2.Crear_tablas/crear_tb_listanegra.png> <./Imagenes/SQL/3.Triggers/TR_ValidarEstadoPrestamo.png>]
+<Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png, id=171, 790.45313pt x 400.49625pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png  used on input line 15.
 (pdftex.def)             Requested size: 316.17564pt x 160.19566pt.
-<Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png, id=163, 767.11594pt x 402.75468pt>
+<Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png, id=172, 767.11594pt x 402.75468pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png  used on input line 21.
 (pdftex.def)             Requested size: 306.84093pt x 161.09901pt.
-<Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png, id=164, 1015.54407pt x 438.13687pt>
+<Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png, id=173, 1015.54407pt x 438.13687pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png  used on input line 27.
 (pdftex.def)             Requested size: 304.66557pt x 131.44206pt.
- [9 <./Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png>]
-<Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png, id=172, 601.4972pt x 438.8897pt>
+ [10 <./Imagenes/SQL/3.Triggers/TR_ValidarPeriodoPrestamo.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTipoTransaccion.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTipoCuenta.png>]
+<Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png, id=181, 601.4972pt x 438.8897pt>
 File: Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png  used on input line 33.
 (pdftex.def)             Requested size: 240.59462pt x 175.55276pt.
-<Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png, id=173, 1108.14pt x 440.39531pt>
+<Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png, id=182, 1107.38719pt x 490.83376pt>
 File: Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png Graphic file (type png)
 <use Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png>
 Package pdftex.def Info: Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png  used on input line 39.
-(pdftex.def)             Requested size: 332.44456pt x 132.1196pt.
-) (2.Desarrollo/2.4.Insercion/insertar_registros.tex
-<Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png, id=174, 815.29594pt x 306.39468pt>
+(pdftex.def)             Requested size: 332.21872pt x 147.25125pt.
+) (3.Desarrollo/3.4.Insercion/insertar_registros.tex
+<Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png, id=183, 815.29594pt x 306.39468pt>
 File: Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png Graphic file (type png)
 <use Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png>
 Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png  used on input line 3.
 (pdftex.def)             Requested size: 407.64697pt x 153.19696pt.
-
-Underfull \vbox (badness 2781) has occurred while \output is active []
-
- [10 <./Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png> <./Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png>]
-<Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png, id=182, 476.53032pt x 191.21437pt>
+ [11 <./Imagenes/SQL/3.Triggers/TR_ValidarTransaccionRetiro.png> <./Imagenes/SQL/3.Triggers/TR_ValidarTransaccionDeposito.png> <./Imagenes/SQL/3.Triggers/TR_MoverAListaNegra.png>]
+<Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png, id=191, 476.53032pt x 191.21437pt>
 File: Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png Graphic file (type png)
 <use Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png>
 Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png  used on input line 9.
 (pdftex.def)             Requested size: 238.26457pt x 95.60695pt.
-<Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png, id=183, 492.33937pt x 189.70876pt>
+<Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png, id=192, 492.33937pt x 189.70876pt>
 File: Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png Graphic file (type png)
 <use Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png>
 Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png  used on input line 15.
 (pdftex.def)             Requested size: 246.16907pt x 94.85414pt.
-<Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png, id=184, 384.6872pt x 173.89969pt>
+<Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png, id=193, 384.6872pt x 173.89969pt>
 File: Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png Graphic file (type png)
 <use Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png>
 Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png  used on input line 21.
@@ -790,19 +791,19 @@ Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.pn
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <./Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png>]
-<Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png, id=192, 380.92313pt x 172.39406pt>
+ [12 <./Imagenes/SQL/4.Insertar_registros/insertar_tb_clientes.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_prestamos.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_cuentas.png>]
+<Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png, id=201, 380.92313pt x 172.39406pt>
 File: Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png Graphic file (type png)
 <use Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png>
 Package pdftex.def Info: Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png  used on input line 27.
 (pdftex.def)             Requested size: 190.46109pt x 86.19681pt.
-) (2.Desarrollo/2.5.ProbarTriggers/test_triggers.tex
-<Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png, id=193, 542.77782pt x 240.9pt>
+) (3.Desarrollo/3.5.ProbarTriggers/test_triggers.tex
+<Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png, id=202, 542.77782pt x 240.9pt>
 File: Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png Graphic file (type png)
 <use Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png>
 Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png  used on input line 3.
 (pdftex.def)             Requested size: 271.38824pt x 120.44969pt.
-<Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png, id=194, 543.53062pt x 243.15843pt>
+<Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png, id=203, 543.53062pt x 243.15843pt>
 File: Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png Graphic file (type png)
 <use Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png>
 Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png  used on input line 9.
@@ -810,43 +811,43 @@ Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limit
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png> <./Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png>]
-<Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png, id=202, 529.22719pt x 405.01312pt>
+ [13 <./Imagenes/SQL/4.Insertar_registros/insertar_tb_ahorro.png> <./Imagenes/SQL/4.Insertar_registros/insertar_tb_plazofijo.png> <./Imagenes/SQL/5.Ejercicios/restriccion_transaccion_plazofijo.png>]
+<Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png, id=212, 529.22719pt x 405.01312pt>
 File: Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png Graphic file (type png)
 <use Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png>
 Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png  used on input line 15.
 (pdftex.def)             Requested size: 264.61295pt x 202.50606pt.
-<Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png, id=203, 245.41687pt x 261.22594pt>
+<Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png, id=213, 245.41687pt x 261.22594pt>
 File: Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png Graphic file (type png)
 <use Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png>
 Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png  used on input line 21.
 (pdftex.def)             Requested size: 122.70813pt x 130.61264pt.
-) (2.Desarrollo/2.6.Ejercicios/ejercicios.tex
-<Imagenes/SQL/5.Ejercicios/fondos_totales.png, id=204, 794.2172pt x 410.2828pt>
+) (3.Desarrollo/3.6.Ejercicios/ejercicios.tex
+<Imagenes/SQL/5.Ejercicios/fondos_totales.png, id=214, 794.2172pt x 410.2828pt>
 File: Imagenes/SQL/5.Ejercicios/fondos_totales.png Graphic file (type png)
 <use Imagenes/SQL/5.Ejercicios/fondos_totales.png>
 Package pdftex.def Info: Imagenes/SQL/5.Ejercicios/fondos_totales.png  used on input line 3.
 (pdftex.def)             Requested size: 397.10762pt x 205.1409pt.
-) [13 <./Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png> <./Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png> <./Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png>] [14 <./Imagenes/SQL/5.Ejercicios/fondos_totales.png>] (parcial_2.aux)
+) [14 <./Imagenes/SQL/5.Ejercicios/restriccion_transaccion_limiteahorro.png> <./Imagenes/SQL/5.Ejercicios/activar_trigger_aumentodeposito.png> <./Imagenes/SQL/5.Ejercicios/activar_trigger_listanegra.png>] [15 <./Imagenes/SQL/5.Ejercicios/fondos_totales.png>] (parcial_2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `parcial_2.out' has not changed.
-(rerunfilecheck)             Checksum: 9BE736842530765C5499EBF39C933506;1009.
+(rerunfilecheck)             Checksum: C91D9698AD48F18EEDC683118814D812;1097.
  ) 
 Here is how much of TeX's memory you used:
- 21235 strings out of 474486
- 411808 string characters out of 5743755
- 1937542 words of memory out of 5000000
- 43065 multiletter control sequences out of 15000+600000
+ 21246 strings out of 474486
+ 412140 string characters out of 5743755
+ 1936542 words of memory out of 5000000
+ 43069 multiletter control sequences out of 15000+600000
  597466 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,7n,93p,1259b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-Output written on parcial_2.pdf (14 pages, 973308 bytes).
+Output written on parcial_2.pdf (15 pages, 980040 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 

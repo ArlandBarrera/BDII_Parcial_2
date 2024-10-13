@@ -16,7 +16,7 @@ VALUES
 (1, 5001, 'Retiro', GETDATE())
 GO
 
---Insertar Transaccion Deposito
+--Trigger insertar Transaccion Deposito
 SELECT * FROM TB_Cuentas
 INSERT INTO TB_Transacciones
 (IDCuenta, MontoTransaccion, TipoTransaccion, FechaTransaccion)
@@ -24,4 +24,12 @@ VALUES
 (1, 12000, 'Deposito', GETDATE())
 SELECT * FROM TB_Transacciones
 SELECT * FROM TB_Cuentas
+GO
+
+--Trigger enviar a la Lista Negra
+SELECT * FROM TB_ListaNegra
+UPDATE TB_Prestamos
+SET TasaInteres = 4.5 --4.6
+WHERE IDPrestamo = 2
+SELECT * FROM TB_ListaNegra
 GO

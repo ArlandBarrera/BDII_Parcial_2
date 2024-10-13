@@ -2,7 +2,6 @@
 USE DB_Banco;
 GO
 
-
 --Ejercicio Fondos Totales
 --Declarar variables
 DECLARE @IDCliente INT, @SaldoTotal DECIMAL(20, 2), @InteresPrestamo DECIMAL(20, 2),
@@ -44,13 +43,4 @@ SET @FondosTotales = @SaldoTotal + @InteresPlazoFijo - @MontoPrestamo - @Interes
 SELECT @SaldoTotal AS SaldoTotal, @InteresPlazoFijo AS InteresPlazoFijo,
 @MontoPrestamo AS MontoPrestamo, @Dias AS DiasAcumulados,
 @InteresPrestamo AS InteresPrestamo, @FondosTotales AS FondosTotales;
-GO
-
-
---Ejercicio enviar a la Lista Negra
-SELECT * FROM TB_ListaNegra
-UPDATE TB_Prestamos
-SET TasaInteres = 4.5 --4.6
-WHERE IDPrestamo = 2
-SELECT * FROM TB_ListaNegra
 GO

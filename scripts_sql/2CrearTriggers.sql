@@ -162,8 +162,11 @@ BEGIN
     -- Validar si el préstamo es diario y han pasado más de 120 dias
     IF @PeriodoPrestamo = 'Diario' AND DATEDIFF(DAY, @FechaInicio, GETDATE()) > 120
     BEGIN
-        INSERT INTO TB_ListaNegra (IDCliente)
-        VALUES (@IDCliente);
-    END
+		GOTO EnviarListaNegra;
+    END;
+
+	EnviarListaNegra:
+			INSERT INTO TB_ListaNegra (IDCliente)
+			VALUES (@IDCliente);
 END;
 GO
